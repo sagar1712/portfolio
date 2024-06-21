@@ -77,7 +77,7 @@ export const navItems = [
       img: "/p1.png",
       iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg"],
       githubLink: "https://github.com/sagar1712/discord-clone",
-      link: "https://sagar-discord-clone.vercel.app/"
+      liveSiteLink: "https://sagar-discord-clone.vercel.app/"
     },
     {
       id: 2,
@@ -86,7 +86,7 @@ export const navItems = [
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       githubLink: "https://github.com/adrianhajdin/zoom-clone",
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      liveSiteLink: "https://github.com/adrianhajdin/zoom-clone",
     },
   ];
   
