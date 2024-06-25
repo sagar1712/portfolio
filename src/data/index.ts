@@ -81,12 +81,12 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      githubLink: "https://github.com/adrianhajdin/zoom-clone",
-      liveSiteLink: "https://github.com/adrianhajdin/zoom-clone",
+      title: "Roll-It",
+      des: "A simple serverless multi-player dice game made with javascript and html",
+      img: "/p2.png",
+      iconLists: [],
+      githubLink: "https://github.com/sagar1712/Roll-it",
+      liveSiteLink: "https://sagar1712.github.io/Roll-it/",
     },
   ];
   
